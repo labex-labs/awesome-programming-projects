@@ -39,8 +39,8 @@ Awesome Programming Projects is a collection of curated learning paths spanning 
 
 Linux is one of the most popular operating systems in the world. It is used in everything from desktop computers to servers and even mobile devices. This skill tree will teach you how to use Linux from the command line, as well as some basic system administration tasks like installing software and managing users.
 
-|   Index | Name                                              | Level   | Link                                                                                                    |
-|---------|---------------------------------------------------|---------|---------------------------------------------------------------------------------------------------------|
+|   Index | Name                                              | Level   | Project Link                                                                                           |
+|---------|---------------------------------------------------|---------|--------------------------------------------------------------------------------------------------------|
 |      01 | Installing and Configuring a Mail Server          | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-installing-and-configuring-a-mail-server)          |
 |      02 | Build a Linux System Monitor Using Bash           | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-build-a-linux-system-monitor-using-bash)           |
 |      03 | Build a Task Scheduler Using Bash                 | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-build-a-task-scheduler-using-bash)                 |
@@ -73,7 +73,7 @@ Linux is one of the most popular operating systems in the world. It is used in e
 
 ### More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#linux)
+- 🔗 [Linux Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#linux)
 - 🔗 [Linux Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
 
 
@@ -87,8 +87,8 @@ Linux is one of the most popular operating systems in the world. It is used in e
 
 Python is a programming language that has become very popular in recent years. It's used for everything from web development to data science and machine learning. This skill tree will teach you how to use Python from the command line, as well as some basic programming concepts like variables and functions.
 
-|   Index | Name                                                  | Level   | Link                                                                                                       |
-|---------|-------------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                  | Level   | Project Link                                                                                              |
+|---------|-------------------------------------------------------|---------|-----------------------------------------------------------------------------------------------------------|
 |      01 | Create a Sudoku Game Using Python and Pygame          | ★★☆     | [🚀 Start Building](https://labex.io/courses/project-create-a-sudoku-game-using-python-and-pygame)         |
 |      02 | Flappy Bird Detection in Video Using Match Templat... | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-flappy-bird-detection-in-video-using-match-template)  |
 |      03 | Build a Digital Clock With Python                     | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-build-a-digital-clock-with-python)                    |
@@ -185,7 +185,7 @@ Python is a programming language that has become very popular in recent years. I
 
 ### More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#python)
+- 🔗 [Python Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#python)
 - 🔗 [Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
 
 
@@ -199,14 +199,14 @@ Python is a programming language that has become very popular in recent years. I
 
 Docker is a tool that allows you to run applications in containers. Every container has its own isolated environment, so it's easy to deploy and manage your applications. In this skill tree, you'll learn how to use Docker to build and run containers.
 
-|   Index | Name                                      | Level   | Link                                                                                            |
-|---------|-------------------------------------------|---------|-------------------------------------------------------------------------------------------------|
+|   Index | Name                                      | Level   | Project Link                                                                                   |
+|---------|-------------------------------------------|---------|------------------------------------------------------------------------------------------------|
 |       1 | Creating a Simple Docker Container in C++ | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-creating-a-simple-docker-container-in-cpp) |
 |       2 | Deploying a Simple TensorFlow Model       | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-deploying-a-simple-tensorflow-model)       |
 
 ### More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#docker)
+- 🔗 [Docker Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#docker)
 - 🔗 [Docker Free Tutorials](https://github.com/labex-labs/docker-free-tutorials)
 
 
@@ -220,8 +220,8 @@ Docker is a tool that allows you to run applications in containers. Every contai
 
 Kubernetes is an open-source container orchestration system for automating deployment, scaling, and management of containerized applications. In this skill tree, you'll learn how to use Kubernetes to deploy and manage applications on a cluster of machines.
 
-|   Index | Name                                                  | Level   | Link                                                                                                                       |
-|---------|-------------------------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                  | Level   | Project Link                                                                                                              |
+|---------|-------------------------------------------------------|---------|---------------------------------------------------------------------------------------------------------------------------|
 |      01 | Use NPD to Detect Node Problems in Kubernetes Clus... | ★★☆     | [🚀 Start Building](https://labex.io/courses/use-npd-to-detect-node-problems-in-kubernetes-clusters)                       |
 |      02 | Usage of Pod Controllers Frequently Used in Kubern... | ★★☆     | [🚀 Start Building](https://labex.io/courses/usage-of-pod-controllers-frequently-used-in-kubernetes)                       |
 |      03 | Work With Service Objects and Pod Probes in Kubern... | ★★☆     | [🚀 Start Building](https://labex.io/courses/work-with-service-objects-and-pod-probes-in-kubernetes)                       |
@@ -238,7 +238,7 @@ Kubernetes is an open-source container orchestration system for automating deplo
 
 ### More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#kubernetes)
+- 🔗 [Kubernetes Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#kubernetes)
 - 🔗 [Kubernetes Free Tutorials](https://github.com/labex-labs/kubernetes-free-tutorials)
 
 
@@ -252,14 +252,14 @@ Kubernetes is an open-source container orchestration system for automating deplo
 
 Git is a version control system that allows you to track changes in your code and collaborate with others. It's used by millions of developers around the world, including some of the largest companies in the world. In this skill tree, you'll learn how to use Git to manage your projects and collaborate with others.
 
-|   Index | Name                                   | Level   | Link                                                                                         |
-|---------|----------------------------------------|---------|----------------------------------------------------------------------------------------------|
+|   Index | Name                                   | Level   | Project Link                                                                                |
+|---------|----------------------------------------|---------|---------------------------------------------------------------------------------------------|
 |       1 | Installing a Git Server                | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-installing-a-git-server)                |
 |       2 | Build an VSCode Extension With ChatGPT | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-build-an-vscode-extension-with-chatgpt) |
 
 ### More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#git)
+- 🔗 [Git Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#git)
 - 🔗 [Git Free Tutorials](https://github.com/labex-labs/git-free-tutorials)
 
 
@@ -273,14 +273,14 @@ Git is a version control system that allows you to track changes in your code an
 
 Ansible is an open-source software provisioning, configuration management, and application-deployment tool enabling infrastructure as code. It runs on many Unix-like systems, and can configure both Unix-like systems as well as Microsoft Windows. It includes its own declarative language to describe system configuration.
 
-|   Index | Name                                                  | Level   | Link                                                                                                  |
-|---------|-------------------------------------------------------|---------|-------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                  | Level   | Project Link                                                                                         |
+|---------|-------------------------------------------------------|---------|------------------------------------------------------------------------------------------------------|
 |       1 | Basic Usage of Ansible                                | ★★☆     | [🚀 Start Building](https://labex.io/courses/basic-usage-of-ansible)                                  |
 |       2 | Integrate Ansible With Jenkins for Automated Deplo... | ★★☆     | [🚀 Start Building](https://labex.io/courses/integrate-ansible-with-jenkins-for-automated-deployment) |
 
 ### More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#ansible)
+- 🔗 [Ansible Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#ansible)
 - 🔗 [Ansible Free Tutorials](https://github.com/labex-labs/ansible-free-tutorials)
 
 
@@ -294,8 +294,8 @@ Ansible is an open-source software provisioning, configuration management, and a
 
 Jenkins is a free and open source automation server. Jenkins helps to automate the non-human part of the software development process, with continuous integration and facilitating technical aspects of continuous delivery.
 
-|   Index | Name                                                  | Level   | Link                                                                                                  |
-|---------|-------------------------------------------------------|---------|-------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                  | Level   | Project Link                                                                                         |
+|---------|-------------------------------------------------------|---------|------------------------------------------------------------------------------------------------------|
 |       1 | Integrate Ansible With Jenkins for Automated Deplo... | ★★☆     | [🚀 Start Building](https://labex.io/courses/integrate-ansible-with-jenkins-for-automated-deployment) |
 |       2 | Deploy Jenkins Service on ECS                         | ★★☆     | [🚀 Start Building](https://labex.io/courses/deploy-jenkins-service-on-ecs)                           |
 |       3 | Use Jenkins Pipelines to Build a Project              | ★★☆     | [🚀 Start Building](https://labex.io/courses/use-jenkins-pipelines-to-build-a-project)                |
@@ -305,7 +305,7 @@ Jenkins is a free and open source automation server. Jenkins helps to automate t
 
 ### More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#jenkins)
+- 🔗 [Jenkins Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#jenkins)
 - 🔗 [Jenkins Free Tutorials](https://github.com/labex-labs/jenkins-free-tutorials)
 
 
@@ -319,8 +319,8 @@ Jenkins is a free and open source automation server. Jenkins helps to automate t
 
 Java is a general-purpose programming language that is class-based, object-oriented, and designed to have as few implementation dependencies as possible. It is intended to let application developers write once, run anywhere (WORA), meaning that compiled Java code can run on all platforms that support Java without the need for recompilation.
 
-|   Index | Name                                                  | Level   | Link                                                                                                      |
-|---------|-------------------------------------------------------|---------|-----------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                  | Level   | Project Link                                                                                             |
+|---------|-------------------------------------------------------|---------|----------------------------------------------------------------------------------------------------------|
 |      01 | Bulk Insert Data Into Course Schedule                 | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-bulk-insert-data-into-course-schedule)               |
 |      02 | Chinese-English Information Switching via IoC         | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-chinese-english-information-switching-via-ioc)       |
 |      03 | Configuring With YAML Files                           | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-configuring-with-yaml-files)                         |
@@ -353,7 +353,7 @@ Java is a general-purpose programming language that is class-based, object-orien
 
 ### More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#java)
+- 🔗 [Java Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#java)
 - 🔗 [Java Free Tutorials](https://github.com/labex-labs/java-free-tutorials)
 
 
@@ -367,14 +367,14 @@ Java is a general-purpose programming language that is class-based, object-orien
 
 Unlock the power of Hadoop and learn to handle big data across clusters efficiently. Our Skill Tree guides you from Hadoop basics like HDFS and MapReduce to advanced topics such as YARN and Apache Hive. Gain the skills to analyze and manage large datasets, a must-have for any data professional.
 
-|   Index | Name                           | Level   | Link                                                                         |
-|---------|--------------------------------|---------|------------------------------------------------------------------------------|
+|   Index | Name                           | Level   | Project Link                                                                |
+|---------|--------------------------------|---------|-----------------------------------------------------------------------------|
 |       1 | Install Hadoop on a Single ECS | ★★☆     | [🚀 Start Building](https://labex.io/courses/install-hadoop-on-a-single-ecs) |
 |       2 | Run Hadoop Jobs on E-MapReduce | ★★☆     | [🚀 Start Building](https://labex.io/courses/run-hadoop-jobs-on-e-mapreduce) |
 
 ### More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#hadoop)
+- 🔗 [Hadoop Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#hadoop)
 - 🔗 [Hadoop Free Tutorials](https://github.com/labex-labs/hadoop-free-tutorials)
 
 
@@ -388,14 +388,14 @@ Unlock the power of Hadoop and learn to handle big data across clusters efficien
 
 In this path, you will learn and practice basic C++ programming. Then, you will implement C++ image processing, C++Web servers, Markdown parsers, memory pools, and Docker container management tools. By completing all the lab courses in this path, you can be able to implement complex applications independently using C++.
 
-|   Index | Name                                      | Level   | Link                                                                                            |
-|---------|-------------------------------------------|---------|-------------------------------------------------------------------------------------------------|
+|   Index | Name                                      | Level   | Project Link                                                                                   |
+|---------|-------------------------------------------|---------|------------------------------------------------------------------------------------------------|
 |       1 | Creating the Solar System in OpenGL       | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-creating-the-solar-system-in-opengl)       |
 |       2 | Creating a Simple Docker Container in C++ | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-creating-a-simple-docker-container-in-cpp) |
 
 ### More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#cpp)
+- 🔗 [C++ Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#cpp)
 - 🔗 [C++ Free Tutorials](https://github.com/labex-labs/cpp-free-tutorials)
 
 
@@ -409,8 +409,8 @@ In this path, you will learn and practice basic C++ programming. Then, you will 
 
 C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system. By design, C provides constructs that map efficiently to typical machine instructions. It has found lasting use in applications previously coded in assembly language. Such applications include operating systems and various application software for computer architectures that range from supercomputers to PLCs and embedded systems.
 
-|   Index | Name                                           | Level   | Link                                                                                                          |
-|---------|------------------------------------------------|---------|---------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                           | Level   | Project Link                                                                                                 |
+|---------|------------------------------------------------|---------|--------------------------------------------------------------------------------------------------------------|
 |      01 | Creating a Simple Clock Animation Using OpenGL | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-creating-a-simple-clock-animation-using-opengl-and-glut) |
 |      02 | Creating a Simple Tic-Tac-Toe Game in C        | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-creating-a-simple-tic-tac-toe-game-in-c)                 |
 |      03 | File Type Statistics Using C                   | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-file-type-statistics-using-c)                            |
@@ -433,7 +433,7 @@ C is a general-purpose, procedural computer programming language supporting stru
 
 ### More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#c)
+- 🔗 [C Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#c)
 - 🔗 [C Free Tutorials](https://github.com/labex-labs/c-free-tutorials)
 
 
@@ -447,8 +447,8 @@ C is a general-purpose, procedural computer programming language supporting stru
 
 MySQL is an open-source relational database management system (RDBMS). Its name is a combination of "My", the name of co-founder Michael Widenius's daughter, and "SQL", the abbreviation for Structured Query Language.
 
-|   Index | Name                                                  | Level   | Link                                                                                                                                     |
-|---------|-------------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                  | Level   | Project Link                                                                                                                            |
+|---------|-------------------------------------------------------|---------|-----------------------------------------------------------------------------------------------------------------------------------------|
 |      01 | Stress Test MySQL 8.0 With the TPC-C Benchmark        | ★★☆     | [🚀 Start Building](https://labex.io/courses/stress-test-mysql-8.0-with-the-tpc-c-benchmark)                                             |
 |      02 | Use Alibaba Cloud Prometheus to Monitor MySQL Data... | ★★★     | [🚀 Start Building](https://labex.io/courses/use-alibaba-cloud-prometheus-to-monitor-mysql-databases)                                    |
 |      03 | Multi Tenant Business System Solution With LIST DE... | ★☆☆     | [🚀 Start Building](https://labex.io/courses/multi-tenant-business-system-solution-with-list-default-hash-partitioning-of-polardb-mysql) |
@@ -544,7 +544,7 @@ MySQL is an open-source relational database management system (RDBMS). Its name 
 
 ### More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#mysql)
+- 🔗 [MySQL Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#mysql)
 - 🔗 [MySQL Free Tutorials](https://github.com/labex-labs/mysql-free-tutorials)
 
 
@@ -558,8 +558,8 @@ MySQL is an open-source relational database management system (RDBMS). Its name 
 
 Machine learning is the science of programming computers so they can learn from data. It is a subfield of artificial intelligence. Machine learning is closely related to computational statistics, which also focuses on prediction-making through the use of computers. 
 
-|   Index | Name                                                  | Level   | Link                                                                                                          |
-|---------|-------------------------------------------------------|---------|---------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                  | Level   | Project Link                                                                                                 |
+|---------|-------------------------------------------------------|---------|--------------------------------------------------------------------------------------------------------------|
 |      01 | Deploying MobileNet With TensorFlow.js and Flask      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-deploying-mobilenet-with-tensorflowjs-and-flask)         |
 |      02 | Deploying a Simple TensorFlow Model                   | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-deploying-a-simple-tensorflow-model)                     |
 |      03 | ASCII Art Animation With OpenCV                       | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-ascii-art-animation-with-opencv)                         |
@@ -582,7 +582,7 @@ Machine learning is the science of programming computers so they can learn from 
 
 ### More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#ml)
+- 🔗 [Machine Learning Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#ml)
 - 🔗 [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
 
 
@@ -596,8 +596,8 @@ Machine learning is the science of programming computers so they can learn from 
 
 Golang is an open-source programming language that makes it easy to build simple, reliable, and efficient software. In this skill tree, you'll learn the fundamentals of the language, including the basics of syntax, an introduction to types, and object-oriented programming in Go.
 
-|   Index | Name                                      | Level   | Link                                                                                            |
-|---------|-------------------------------------------|---------|-------------------------------------------------------------------------------------------------|
+|   Index | Name                                      | Level   | Project Link                                                                                   |
+|---------|-------------------------------------------|---------|------------------------------------------------------------------------------------------------|
 |       1 | Development of Golang Caching Component   | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-development-of-golang-caching-component)   |
 |       2 | Cache Request Execution Results           | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-cache-request-execution-results)           |
 |       3 | Implement JSON Comment Interpreter        | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-implement-json-comment-interpreter)        |
@@ -606,7 +606,7 @@ Golang is an open-source programming language that makes it easy to build simple
 
 ### More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#go)
+- 🔗 [Go Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#go)
 - 🔗 [Go Free Tutorials](https://github.com/labex-labs/go-free-tutorials)
 
 
@@ -620,15 +620,15 @@ Golang is an open-source programming language that makes it easy to build simple
 
 Pandas is a Python library for data analysis. It provides high-performance, easy-to-use data structures and data analysis tools. In this skill tree, you'll learn how to use Pandas to analyze data in Python.
 
-|   Index | Name                                    | Level   | Link                                                                                                       |
-|---------|-----------------------------------------|---------|------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                    | Level   | Project Link                                                                                              |
+|---------|-----------------------------------------|---------|-----------------------------------------------------------------------------------------------------------|
 |       1 | Credit Card Holder Risk Prediction      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-credit-card-holder-risk-prediction)                   |
 |       2 | Implementation of Polynomial Regression | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-polynomial-regression-implementation-and-application) |
 |       3 | COVID-19 Data Analysis with Python      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-covid-19-data-statistics)                             |
 
 ### More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#pandas)
+- 🔗 [Pandas Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#pandas)
 - 🔗 [Pandas Free Tutorials](https://github.com/labex-labs/pandas-free-tutorials)
 
 
@@ -642,8 +642,8 @@ Pandas is a Python library for data analysis. It provides high-performance, easy
 
 NumPy is a Python library for scientific computing. It provides fast and efficient multidimensional arrays, as well as a large collection of mathematical functions. In this skill tree, you'll learn how to use NumPy to perform basic operations on arrays of data.
 
-|   Index | Name                                                  | Level   | Link                                                                                                          |
-|---------|-------------------------------------------------------|---------|---------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                  | Level   | Project Link                                                                                                 |
+|---------|-------------------------------------------------------|---------|--------------------------------------------------------------------------------------------------------------|
 |       1 | Gravitational Simulation of Earth and Super Jupite... | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-gravitational-simulation-of-earth-and-super-jupiter)     |
 |       2 | ASCII Art Animation With OpenCV                       | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-ascii-art-animation-with-opencv)                         |
 |       3 | K-Nearest Neighbors Regression Algorithm Implement... | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-k-nearest-neighbors-regression-algorithm-implementation) |
@@ -653,7 +653,7 @@ NumPy is a Python library for scientific computing. It provides fast and efficie
 
 ### More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#numpy)
+- 🔗 [NumPy Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#numpy)
 - 🔗 [NumPy Free Tutorials](https://github.com/labex-labs/numpy-free-tutorials)
 
 
@@ -667,15 +667,15 @@ NumPy is a Python library for scientific computing. It provides fast and efficie
 
 scikit-learn is a Python library for machine learning. It provides a wide range of algorithms and tools for data mining and analysis. In this skill tree, you'll learn how to use scikit-learn to build machine learning models in Python.
 
-|   Index | Name                                                  | Level   | Link                                                                                                      |
-|---------|-------------------------------------------------------|---------|-----------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                  | Level   | Project Link                                                                                             |
+|---------|-------------------------------------------------------|---------|----------------------------------------------------------------------------------------------------------|
 |       1 | Classifying Iris Using SVM                            | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-classifying-iris-using-svm)                          |
 |       2 | Credit Card Holder Risk Prediction                    | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-credit-card-holder-risk-prediction)                  |
 |       3 | Simple Handwritten Character Recognition Classifie... | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-simple-handwritten-character-recognition-classifier) |
 
 ### More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#sklearn)
+- 🔗 [scikit-learn Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#sklearn)
 - 🔗 [scikit-learn Free Tutorials](https://github.com/labex-labs/sklearn-free-tutorials)
 
 
@@ -689,14 +689,14 @@ scikit-learn is a Python library for machine learning. It provides a wide range 
 
 Matplotlib is a Python library for creating visualizations of data. It provides a wide range of plotting tools, including line plots, scatter plots, bar charts, histograms, and more. In this skill tree, you'll learn how to use Matplotlib to create basic visualizations of data.
 
-|   Index | Name                                                  | Level   | Link                                                                                                      |
-|---------|-------------------------------------------------------|---------|-----------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                  | Level   | Project Link                                                                                             |
+|---------|-------------------------------------------------------|---------|----------------------------------------------------------------------------------------------------------|
 |       1 | Gravitational Simulation of Earth and Super Jupite... | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-gravitational-simulation-of-earth-and-super-jupiter) |
 |       2 | Linear Regression Fitting and Plotting                | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-linear-regression-fitting-and-plotting)              |
 
 ### More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#matplotlib)
+- 🔗 [Matplotlib Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#matplotlib)
 - 🔗 [Matplotlib Free Tutorials](https://github.com/labex-labs/matplotlib-free-tutorials)
 
 
@@ -710,8 +710,8 @@ Matplotlib is a Python library for creating visualizations of data. It provides 
 
 HTML is a markup language that is used to create web pages. It is the standard markup language used for creating web pages and web applications. HTML stands for Hyper Text Markup Language. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document.
 
-|   Index | Name                                              | Level   | Link                                                                                                    |
-|---------|---------------------------------------------------|---------|---------------------------------------------------------------------------------------------------------|
+|   Index | Name                                              | Level   | Project Link                                                                                           |
+|---------|---------------------------------------------------|---------|--------------------------------------------------------------------------------------------------------|
 |      01 | Building a Christmas Wish List Builder in React   | ★★☆     | [🚀 Start Building](https://labex.io/courses/project-building-a-christmas-wish-list-builder-in-react)   |
 |      02 | Build a Simple Markdown Editor With Live Preview  | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-build-a-simple-markdown-editor-with-live-preview)  |
 |      03 | Implement a Magnifying Glass Effect Using Canvas  | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-implement-a-magnifying-glass-effect-using-canvas)  |
@@ -772,7 +772,7 @@ HTML is a markup language that is used to create web pages. It is the standard m
 
 ### More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#html)
+- 🔗 [HTML Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#html)
 - 🔗 [HTML Free Tutorials](https://github.com/labex-labs/html-free-tutorials)
 
 
@@ -786,8 +786,8 @@ HTML is a markup language that is used to create web pages. It is the standard m
 
 CSS is a language that describes the style of an HTML document. It's used to make web pages look good and work well on different devices. In this skill tree, you'll learn how to use CSS to style your web pages.
 
-|   Index | Name                                              | Level   | Link                                                                                                    |
-|---------|---------------------------------------------------|---------|---------------------------------------------------------------------------------------------------------|
+|   Index | Name                                              | Level   | Project Link                                                                                           |
+|---------|---------------------------------------------------|---------|--------------------------------------------------------------------------------------------------------|
 |      01 | Building a Christmas Wish List Builder in React   | ★★☆     | [🚀 Start Building](https://labex.io/courses/project-building-a-christmas-wish-list-builder-in-react)   |
 |      02 | Build a Simple Markdown Editor With Live Preview  | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-build-a-simple-markdown-editor-with-live-preview)  |
 |      03 | Monty Hall Simulation Web App                     | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-monty-hall-problem-simulation-web-app)             |
@@ -841,7 +841,7 @@ CSS is a language that describes the style of an HTML document. It's used to mak
 
 ### More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#css)
+- 🔗 [CSS Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#css)
 - 🔗 [CSS Free Tutorials](https://github.com/labex-labs/css-free-tutorials)
 
 
@@ -855,8 +855,8 @@ CSS is a language that describes the style of an HTML document. It's used to mak
 
 JavaScript is a programming language that can be used to create interactive web pages. Every modern web browser has built-in support for JavaScript, so it's easy to get started with this skill tree. 
 
-|   Index | Name                                                  | Level   | Link                                                                                                    |
-|---------|-------------------------------------------------------|---------|---------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                  | Level   | Project Link                                                                                           |
+|---------|-------------------------------------------------------|---------|--------------------------------------------------------------------------------------------------------|
 |     001 | Building a Christmas Wish List Builder in React       | ★★☆     | [🚀 Start Building](https://labex.io/courses/project-building-a-christmas-wish-list-builder-in-react)   |
 |     002 | Build a Simple Markdown Editor With Live Preview      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-build-a-simple-markdown-editor-with-live-preview)  |
 |     003 | Implement a Magnifying Glass Effect Using Canvas      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-implement-a-magnifying-glass-effect-using-canvas)  |
@@ -965,7 +965,7 @@ JavaScript is a programming language that can be used to create interactive web 
 
 ### More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#javascript)
+- 🔗 [JavaScript Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#javascript)
 - 🔗 [JavaScript Free Tutorials](https://github.com/labex-labs/javascript-free-tutorials)
 
 
@@ -979,8 +979,8 @@ JavaScript is a programming language that can be used to create interactive web 
 
 React is a JavaScript library for building user interfaces. It's used by companies like Facebook, Netflix, and Airbnb to create interactive web applications. In this skill tree, you'll learn how to use React to build modern web apps with ease.
 
-|   Index | Name                                            | Level   | Link                                                                                                  |
-|---------|-------------------------------------------------|---------|-------------------------------------------------------------------------------------------------------|
+|   Index | Name                                            | Level   | Project Link                                                                                         |
+|---------|-------------------------------------------------|---------|------------------------------------------------------------------------------------------------------|
 |      01 | Create a Notes App Using React                  | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-create-a-notes-app-using-react)                  |
 |      02 | Building a React Drag-and-Drop Puzzle Game      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-building-a-react-drag-and-drop-puzzle-game)      |
 |      03 | Building a React GitHub Heatmap Contributions   | ★★☆     | [🚀 Start Building](https://labex.io/courses/project-building-a-react-github-heatmap-contributions)   |
@@ -996,7 +996,7 @@ React is a JavaScript library for building user interfaces. It's used by compani
 
 ### More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#react)
+- 🔗 [React Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#react)
 - 🔗 [React Free Tutorials](https://github.com/labex-labs/react-free-tutorials)
 
 
@@ -1010,8 +1010,8 @@ React is a JavaScript library for building user interfaces. It's used by compani
 
 Gain practical skills in network mapping with Nmap, packet analysis with Wireshark, and ethical hacking methodologies using Kali Linux. Explore host discovery, port scanning, vulnerability assessments, traffic capture, packet dissection, and a wide range of security tools. Develop hands-on expertise in network reconnaissance, web app testing, wireless hacking, exploitation, and post-exploitation techniques. This comprehensive path equips you with essential InfoSec knowledge to identify risks, conduct ethical hacking assessments, and strengthen organizational security posture.
 
-|   Index | Name                                      | Level   | Link                                                                                            |
-|---------|-------------------------------------------|---------|-------------------------------------------------------------------------------------------------|
+|   Index | Name                                      | Level   | Project Link                                                                                   |
+|---------|-------------------------------------------|---------|------------------------------------------------------------------------------------------------|
 |       1 | Build a Web Based TCP Port Scanner        | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-build-a-web-based-tcp-port-scanner)        |
 |       2 | Building a Network Scanner in Python      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-building-a-network-scanner-in-python)      |
 |       3 | Building a Port Scanner With Python       | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-building-a-port-scanner-with-python)       |
@@ -1020,6 +1020,6 @@ Gain practical skills in network mapping with Nmap, packet analysis with Wiresha
 
 ### More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#cysec)
+- 🔗 [Cyber Security Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#cysec)
 - 🔗 [Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
 
