@@ -4,26 +4,37 @@ Awesome Programming Projects is a collection of curated learning paths spanning 
 
 - [Linux](#linux)
 - [Python](#python)
+- [DevOps](#devops)
+- [Web Development](#web-development)
+- [Data Science](#data-science)
+- [Big Data](#big-data)
+- [Cyber Security](#cyber-security)
+- [Machine Learning](#machine-learning)
 - [Docker](#docker)
 - [Kubernetes](#kubernetes)
 - [Git](#git)
+- [Ansible](#ansible)
+- [Jenkins](#jenkins)
+- [Shell](#shell)
 - [Java](#java)
 - [Hadoop](#hadoop)
 - [C++](#c++)
 - [C](#c)
 - [MySQL](#mysql)
-- [Machine Learning](#machine-learning)
 - [Go](#go)
 - [Rust](#rust)
+- [OpenCV](#opencv)
+- [Django](#django)
 - [Pandas](#pandas)
 - [NumPy](#numpy)
 - [scikit-learn](#scikit-learn)
 - [Matplotlib](#matplotlib)
+- [Algorithm](#algorithm)
 - [HTML](#html)
 - [CSS](#css)
 - [JavaScript](#javascript)
 - [React](#react)
-- [Cyber Security](#cyber-security)
+- [jQuery](#jquery)
 
 
 
@@ -190,6 +201,375 @@ Python is a programming language that has become very popular in recent years. I
 ---
 
 <div align="center">
+<img width="128px" src="https://file.labex.io/path/a3Od9y18p0bV.png">
+</div>
+
+## DevOps
+
+The DevOps learning path involves mastering key technologies such as Linux, Docker, Git, Ansible, Kubernetes, and Jenkins. Understanding Linux fundamentals provides a strong foundation, while Docker enables containerization for scalable deployments. Git facilitates version control for collaborative development. Ansible automates configuration management, Kubernetes manages container orchestration, and Jenkins automates CI/CD pipelines. Continuous learning and hands-on practice with these tools are essential for mastering DevOps principles and practices.
+
+|   Index | Name                                              | Level   | Project Link                                                                                           |
+|---------|---------------------------------------------------|---------|--------------------------------------------------------------------------------------------------------|
+|      01 | Build a Linux System Monitor Using Bash           | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-build-a-linux-system-monitor-using-bash)           |
+|      02 | Build a Task Scheduler Using Bash                 | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-build-a-task-scheduler-using-bash)                 |
+|      03 | Build an VSCode Extension With ChatGPT            | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-build-an-vscode-extension-with-chatgpt)            |
+|      04 | Building Flappy Bird Using C                      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-building-flappy-bird-using-c)                      |
+|      05 | Creating a Simple Docker Container in C++         | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-creating-a-simple-docker-container-in-cpp)         |
+|      06 | Creating a Typing Game Using Bash                 | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-creating-a-typing-game-using-bash)                 |
+|      07 | Deploying MobileNet With TensorFlow.js and Flask  | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-deploying-mobilenet-with-tensorflowjs-and-flask)   |
+|      08 | Deploying a Simple TensorFlow Model               | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-deploying-a-simple-tensorflow-model)               |
+|      09 | Build a Simple URL Shortener With Flask and MySQL | ★★★     | [🚀 Start Building](https://labex.io/courses/project-build-a-simple-url-shortener-with-flask-and-mysql) |
+|      10 | Reverse Shell to Control Multiple Targets         | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-reverse-shell-to-control-multiple-targets)         |
+|      11 | Installing and Configuring a Mail Server          | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-installing-and-configuring-a-mail-server)          |
+|      12 | Installing a Git Server                           | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-installing-a-git-server)                           |
+|      13 | Chess Board in Terminal                           | ★★☆     | [🚀 Start Building](https://labex.io/courses/project-chess-board-in-terminal)                           |
+|      14 | Changing the Error Log Location                   | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-changing-the-error-log-location)                   |
+|      15 | Implement Custom Trash-Enabled Command            | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-avoid-accidental-deletion)                         |
+|      16 | Users and Groups Creation and Deletion Batch      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-bulk-creation-and-deletion-of-users-and-groups)    |
+|      17 | Configuring SSH Certificates for Secure Login     | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-certificate-configuration)                         |
+|      18 | Collect Files From Specified Time                 | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-collect-files-from-specified-time)                 |
+|      19 | Copy Large Files with Preserved Structure         | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-copy-specified-files)                              |
+|      20 | Customizing Linux File Listing                    | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-directory-size)                                    |
+|      21 | Extracting Information From Text                  | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-extracting-information-from-text)                  |
+|      22 | Extracting Link Information From Text             | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-extracting-link-information-from-text)             |
+|      23 | Get Program That Satisfies the Condition          | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-get-program-that-satisfies-the-condition)          |
+|      24 | Linux Server Information Retrieval                | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-get-system-information)                            |
+|      25 | Nginx Log Analysis and Optimization               | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-log-analysis)                                      |
+|      26 | Automated Daily System Log Backup                 | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-log-backup)                                        |
+|      27 | Network Data Packet Statistics                    | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-network-data-packet-statistics)                    |
+|      28 | New Colleague System Account Setup                | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-new-colleague-system-account-setup)                |
+|      29 | Random Password Generator Development             | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-password-generator)                                |
+|      30 | Restore Access to Website                         | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-restore-access-to-website)                         |
+|      31 | Searching for Specific Files                      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-searching-for-specific-files)                      |
+|      32 | Samba File Sharing on Linux                       | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-service-management)                                |
+
+### More
+
+- 🔗 [DevOps Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#devops)
+- 🔗 [DevOps Free Tutorials](https://github.com/labex-labs/devops-free-tutorials)
+
+
+---
+
+<div align="center">
+<img width="128px" src="https://file.labex.io/path/NHa0nG5axMBE.png">
+</div>
+
+## Web Development
+
+Web development learning path involves mastering core technologies like HTML, CSS, and JavaScript, then progressing to front-end frameworks/libraries like React or Vue.js, as well as back-end languages/frameworks, databases, web servers, version control, testing and deployment. Continuous learning and hands-on practice are key.
+
+|   Index | Name                                                  | Level   | Project Link                                                                                           |
+|---------|-------------------------------------------------------|---------|--------------------------------------------------------------------------------------------------------|
+|     001 | Build an VSCode Extension With ChatGPT                | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-build-an-vscode-extension-with-chatgpt)            |
+|     002 | Build a Tic-Tac-Toe Web App                           | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-build-a-tic-tac-toe-web-app)                       |
+|     003 | Creating a Whack-a-Mole Web Game                      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-creating-a-whack-a-mole-web-game)                  |
+|     004 | Create a Notes App Using React                        | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-create-a-notes-app-using-react)                    |
+|     005 | Building a Modern Expense Splitter Web App            | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-building-a-expense-splitter-web-app)               |
+|     006 | Creating a Drawing Board Web App                      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-creating-a-drawing-board-web-app)                  |
+|     007 | Creating a Task Timer Web App                         | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-creating-a-task-timer-web-app)                     |
+|     008 | Create a Swiper Carousel Web App                      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-create-a-swiper-carousel-web-app)                  |
+|     009 | Monty Hall Simulation Web App                         | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-monty-hall-problem-simulation-web-app)             |
+|     010 | Building a Web Avoiding Block Game                    | ★★☆     | [🚀 Start Building](https://labex.io/courses/project-building-a-web-avoiding-block-game)                |
+|     011 | 2048 Web Game Using jQuery                            | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-2048-web-game-using-jquery)                        |
+|     012 | Developing a Simple Online Chat Room Using Flask      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-developing-a-simple-online-chat-room-using-flask)  |
+|     013 | Build a Sliding Puzzle Game With JavaScript           | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-build-a-sliding-puzzle-game-with-javascript)       |
+|     014 | Create a Pixel Art Animator With React                | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-create-a-pixel-art-animator-with-react)            |
+|     015 | jQuery Flip Puzzle Game                               | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-jquery-flip-puzzle-game)                           |
+|     016 | Creating a Minesweeper Game With JavaScript           | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-creating-a-minesweeper-game-with-javascript)       |
+|     017 | Build a Simple Markdown Editor With Live Preview      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-build-a-simple-markdown-editor-with-live-preview)  |
+|     018 | Implement a Magnifying Glass Effect Using Canvas      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-implement-a-magnifying-glass-effect-using-canvas)  |
+|     019 | Build an Image Cropping Tool Using HTML5              | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-build-an-image-cropping-tool-using-html5)          |
+|     020 | Building a Christmas Wish List Builder in React       | ★★☆     | [🚀 Start Building](https://labex.io/courses/project-building-a-christmas-wish-list-builder-in-react)   |
+|     021 | Building a React Drag-and-Drop Puzzle Game            | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-building-a-react-drag-and-drop-puzzle-game)        |
+|     022 | Building a React GitHub Heatmap Contributions         | ★★☆     | [🚀 Start Building](https://labex.io/courses/project-building-a-react-github-heatmap-contributions)     |
+|     023 | Deploying MobileNet With TensorFlow.js and Flask      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-deploying-mobilenet-with-tensorflowjs-and-flask)   |
+|     024 | Don't Step on the White Tile                          | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-dont-step-on-the-white-tile)                       |
+|     025 | Build a Scratch Card Web Game                         | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-scratch-card-game)                                 |
+|     026 | Build a Simple URL Shortener With Flask and MySQL     | ★★★     | [🚀 Start Building](https://labex.io/courses/project-build-a-simple-url-shortener-with-flask-and-mysql) |
+|     027 | Build a Web Based TCP Port Scanner                    | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-build-a-web-based-tcp-port-scanner)                |
+|     028 | Real-Time Sentence Search with Vue.js                 | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-beautiful-sentences)                               |
+|     029 | Vue.js Search Functionality Development               | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-do-a-search)                                       |
+|     030 | Implement Dynamic Sticky Tab Bar                      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-dynamic-tab-bar)                                   |
+|     031 | CSS Fan-Like Hover Animation Effect                   | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-unfold-your-fan)                                   |
+|     032 | The Boundless Sea of Learning                         | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-the-boundless-sea-of-learning)                     |
+|     033 | A Good Review for the Takeout                         | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-a-good-review-for-the-takeout)                     |
+|     034 | Address Management Web Application                    | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-add-new-address)                                   |
+|     035 | Bing Dwen Dwen Mood Scale                             | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-bing-dwen-dwen-mood-scale)                         |
+|     036 | Building a Traffic Lights System with JavaScript      | ★★☆     | [🚀 Start Building](https://labex.io/courses/project-colour-changeable-light)                           |
+|     037 | Building a Simple Search Functionality                | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-confusing-this)                                    |
+|     038 | Pagination Implementation with Axios                  | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-course-list)                                       |
+|     039 | Escape From the Dual Vector Foil                      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-escape-from-the-dual-vector-foil)                  |
+|     040 | Build a Guess the Coin Game                           | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-guess-the-coin)                                    |
+|     041 | Random Greeting Card Generator                        | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-holiday-greeting-card)                             |
+|     042 | Movie Ticket Reservation System                       | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-movie-ticket-reservation)                          |
+|     043 | Axios-Driven Incantation Treasure Hunt                | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-mysterious-incantation)                            |
+|     044 | Create Responsive Modal Boxes                         | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-naughty-modal-box)                                 |
+|     045 | Building Reusable Pagination Component                | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-pagination-component)                              |
+|     046 | Spell Out a Future                                    | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-spell-out-a-future)                                |
+|     047 | Web-based HTML Presentation Builder                   | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-web-ppt)                                           |
+|     048 | Custom Form Validation with Vue.js                    | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-custom-form-validator)                             |
+|     049 | Empty pathMatch for Correct Path Calculation          | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-empty-pathmatch-for-correct-path-calculation)      |
+|     050 | Vue.js Shopping Cart with Drag and Drop               | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-fun-shopping)                                      |
+|     051 | Implement Search Suggestions with Vue.js              | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-input-search-suggestions)                          |
+|     052 | Product List with Layout Switching                    | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-layout-switch)                                     |
+|     053 | Vue.js Buttons and Value Updating                     | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-magic-failure)                                     |
+|     054 | Building Dynamic Menu Tree Search with Vue.js         | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-menu-tree-search)                                  |
+|     055 | Fixing Vue Router's cleanPath Function                | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-multiple-slashes)                                  |
+|     056 | Build a Vue.js E-book Reader                          | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-read-it)                                           |
+|     057 | Retrieving Object Parameters From Query               | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-retrieving-object-parameters-from-query)           |
+|     058 | Building a Vue.js Shopping Cart                       | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-shopping-cart)                                     |
+|     059 | Building a Vue.js Store Status Switcher               | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-switch-business-status)                            |
+|     060 | Implement Efficient Virtual Scrolling with Vue.js     | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-virtual-scroll-list)                               |
+|     061 | Implement Atomic Flex Layout with CSS                 | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-atomic-css)                                        |
+|     062 | Building a Responsive News Website Homepage           | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-creating-website-homepage)                         |
+|     063 | Creative Billboard Design with Wooden Textures        | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-creative-billboard)                                |
+|     064 | Depth of Field in Images                              | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-depth-of-field-in-images)                          |
+|     065 | Creating a Koala Face with CSS Grid                   | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-draw-a-koala)                                      |
+|     066 | Creating Earth's Orbital Animation with CSS           | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-exploring-the-earth)                               |
+|     067 | Fixing Website Display Issues                         | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-fix-website-display)                               |
+|     068 | Responsive Dice Layout with Flexbox                   | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-flex-dice-layout)                                  |
+|     069 | Responsive Flexible Card Layout                       | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-flexible-card)                                     |
+|     070 | Flexbox Vegetable Layout Design                       | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-fresh-vegetables)                                  |
+|     071 | Fruit Arrangement with CSS Flexbox                    | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-fruit-arrangement)                                 |
+|     072 | Visually Appealing Fruit Platter                      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-fruit-platter)                                     |
+|     073 | Give Your Page a Makeover                             | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-give-your-page-a-makeover)                         |
+|     074 | Simple and Beautiful Home Page Design                 | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-labex-knowledge-network)                           |
+|     075 | Movie Theater Seat Arrangement                        | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-movie-theater-seat-arrangement)                    |
+|     076 | Responsive Web Design with Gulp                       | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-responsive-page-layout)                            |
+|     077 | Responsive Web Design for All Screens                 | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-responsive-web-design)                             |
+|     078 | Create Visually Appealing Business Card               | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-user-business-cards)                               |
+|     079 | Westward Journey to Heavenly West                     | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-westward-journey-to-heavenly-west)                 |
+|     080 | Data Formatting and Visualization with Vue.js         | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-table-data-conversion)                             |
+|     081 | Vanished Into Thin Air                                | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-vanished-into-thin-air)                            |
+|     082 | Wish Sticky Note App with Vue.js                      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-wish-sticky-note)                                  |
+|     083 | Responsive Navigation with Custom React Hook          | ★★☆     | [🚀 Start Building](https://labex.io/courses/project-browser-window-size)                               |
+|     084 | React Theme Switcher Application                      | ★★☆     | [🚀 Start Building](https://labex.io/courses/project-change-page-theme)                                 |
+|     085 | React Colour Filter Application                       | ★★☆     | [🚀 Start Building](https://labex.io/courses/project-colour-filter)                                     |
+|     086 | Implementing React Navigation Features                | ★★☆     | [🚀 Start Building](https://labex.io/courses/project-navigation-features)                               |
+|     087 | Create Responsive Business Card with React            | ★★☆     | [🚀 Start Building](https://labex.io/courses/project-personal-card-generator)                           |
+|     088 | Build Interactive React Components                    | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-show-and-hide)                                     |
+|     089 | Mobile Phone Number Verification                      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-account-verification)                              |
+|     090 | Correctly Warn Incorrect v-Slot Usage                 | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-correctly-warn-incorrect-v-slot-usage)             |
+|     091 | Adding Deprecation Warning to Vue Router              | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-deprecated-addroutes)                              |
+|     092 | Dynamization of Homepage Data                         | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-dynamization-of-homepage-data)                     |
+|     093 | Fix the Test in async.spec.js                         | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-fix-the-test-in-asyncspecjs)                       |
+|     094 | Data Visualization with Echarts and JSON              | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-food-protein-revealed)                             |
+|     095 | Handling Null Values Correctly                        | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-handling-null-values-correctly)                    |
+|     096 | Let’s Have a Meeting Together                         | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-lets-have-a-meeting-together)                      |
+|     097 | Building Login with Vue.js and Vuex                   | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-missing-token)                                     |
+|     098 | Remove the Warning Generated by pathMatch             | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-remove-the-warning-generated-by-pathmatch)         |
+|     099 | Revisit Route Triggers Too Early                      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-revisit-route-triggers-too-early)                  |
+|     100 | Router Query Value Changed                            | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-router-query-value-changed)                        |
+|     101 | Building Flexible Skeleton Screens                    | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-skeleton-screen)                                   |
+|     102 | Time Conversion Tool with Vue.js                      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-time-conversion-tool)                              |
+|     103 | Build a Vue.js Task Manager                           | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-time-management-master)                            |
+|     104 | Interactive Film Collection Web App                   | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-collection-of-films)                               |
+|     105 | Building Responsive Accordion Interfaces              | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-folding-accordion)                                 |
+|     106 | Fruit Matching Game with HTML, CSS, JavaScript        | ★★☆     | [🚀 Start Building](https://labex.io/courses/project-fruit-for-fun)                                     |
+|     107 | Fruit Stacking Game with HTML, CSS, JavaScript        | ★★☆     | [🚀 Start Building](https://labex.io/courses/project-fruit-stacker)                                     |
+|     108 | Simple Prize Draw Application                         | ★★☆     | [🚀 Start Building](https://labex.io/courses/project-prize-draw)                                        |
+|     109 | Building a Voting Application                         | ★★☆     | [🚀 Start Building](https://labex.io/courses/project-valuable-vote)                                     |
+|     110 | Weekly Weather Forecast Application Development       | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-weather-forecast-query)                            |
+|     111 | Hard Work Pays Off                                    | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-hard-work-pays-off)                                |
+|     112 | Real-Time Sales Dashboard with Echarts                | ★★☆     | [🚀 Start Building](https://labex.io/courses/project-sales-dashboard)                                   |
+|     113 | Creating Interactive Bar Charts with ECharts          | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-student-achievement-statistics)                    |
+|     114 | Weather Trend Chart with Vue and Echarts              | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-weather-trend)                                     |
+|     115 | Course Schedule CRUD With MyBatis                     | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-course-schedule-crud-with-mybatis)                 |
+|     116 | Configuring Logging and Batch Aliasing in MyBatis     | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-course-schedule-logging)                           |
+|     117 | Extending Entity with Custom Properties               | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-custom-type-handler)                               |
+|     118 | Implementation of AJAX Requests Using JS              | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-implementation-of-ajax-requests-using-js)          |
+|     119 | JSON Data Transfer With AJAX                          | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-json-data-transfer-with-ajax)                      |
+|     120 | Logging Project Information With Log4j2               | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-logging-project-information-with-log4j2)           |
+|     121 | Operate the Course Table                              | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-operate-the-course-table)                          |
+|     122 | Practical Use of resultMap                            | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-practical-use-of-resultmap)                        |
+|     123 | User Permission Management System with JavaScript     | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-permission-management)                             |
+|     124 | Promisifying Callback-based Asynchronous Functions    | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-encapsulate-promisify-function)                    |
+|     125 | Building a News API with Node.js                      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-news-api)                                          |
+|     126 | Building a User Management RESTful API with Node.j... | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-restful-api-development)                           |
+|     127 | Building a Node.js Reverse Proxy                      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-reverse-proxy)                                     |
+|     128 | Switch Between Light and Dark                         | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-switch-between-light-and-dark)                     |
+|     129 | Implement User Login Function                         | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-implement-user-login-function)                     |
+|     130 | Time With Your Phone                                  | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-time-with-your-phone)                              |
+|     131 | Counting Access Times by IP                           | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-counting-access-times-by-ip)                       |
+
+### More
+
+- 🔗 [Web Development Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#web-development)
+- 🔗 [Web Development Free Tutorials](https://github.com/labex-labs/web-development-free-tutorials)
+
+
+---
+
+<div align="center">
+<img width="128px" src="https://file.labex.io/path/Ctx67nWJaNg4.png">
+</div>
+
+## Data Science
+
+Data Science learning path involves mastering core technologies such as Python programming, statistics, and foundational machine learning concepts. Then, you progress to exploring data processing and visualization tools like Pandas, NumPy, and Matplotlib. Next, you can delve into machine learning frameworks and libraries like Scikit-learn and TensorFlow, as well as knowledge in deep learning. Understanding data engineering aspects is also crucial, including skills in data cleaning, transformation, and storage technologies such as SQL and NoSQL databases. Continuous learning and hands-on practice through solving real-world problems and engaging in projects are essential for skill advancement.
+
+|   Index | Name                                                  | Level   | Project Link                                                                                                 |
+|---------|-------------------------------------------------------|---------|--------------------------------------------------------------------------------------------------------------|
+|      01 | ASCII Art Animation With OpenCV                       | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-ascii-art-animation-with-opencv)                         |
+|      02 | Gravitational Simulation of Earth and Super Jupite... | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-gravitational-simulation-of-earth-and-super-jupiter)     |
+|      03 | Manage MySQL User Permissions                         | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-user-permission-management)                              |
+|      04 | Classifying Iris Using SVM                            | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-classifying-iris-using-svm)                              |
+|      05 | Credit Card Holder Risk Prediction                    | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-credit-card-holder-risk-prediction)                      |
+|      06 | K-Nearest Neighbors Regression Algorithm Implement... | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-k-nearest-neighbors-regression-algorithm-implementation) |
+|      07 | Linear Regression Fitting and Plotting                | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-linear-regression-fitting-and-plotting)                  |
+|      08 | Implementing Minkowski Distance Metric                | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-minkowski-distances-calculating)                         |
+|      09 | Implementation of Polynomial Regression               | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-polynomial-regression-implementation-and-application)    |
+|      10 | Simple Handwritten Character Recognition Classifie... | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-simple-handwritten-character-recognition-classifier)     |
+|      11 | A Simple Course Database                              | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-a-simple-course-database)                                |
+|      12 | Managing Database Indexes in MySQL                    | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-add-course-index)                                        |
+|      13 | Add Student Personal Information                      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-add-student-personal-information)                        |
+|      14 | Adding Constraints to the Course Schedule             | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-adding-constraints-to-the-course-schedule)               |
+|      15 | Adding Unique Constraint to City Names                | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-adding-unique-constraint-to-city-names)                  |
+|      16 | Average Salaries Per Department                       | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-average-salaries-per-department-descending)              |
+|      17 | Backup MySQL Database with Mysqldump                  | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-backup-data-table)                                       |
+|      18 | Biology Course Alumni Search                          | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-biology-course-alumni-search)                            |
+|      19 | Calculate User's Encrypted Password                   | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-calculate-users-encrypted-password)                      |
+|      20 | Change Default Value for Countrylanguage Table        | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-change-default-value-for-countrylanguage-table)          |
+|      21 | Cities With Over One Million Population               | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-cities-with-over-one-million-population)                 |
+|      22 | City Names and Respective Countries                   | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-city-names-and-respective-countries)                     |
+|      23 | Database Management and SQL Self-Join                 | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-city-province-query)                                     |
+|      24 | Columbus Discovery of the New World                   | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-columbus-discovery-of-the-new-world)                     |
+|      25 | Comprehensive Operation of Basic Functions            | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-comprehensive-challenge-of-basic-functions)              |
+|      26 | Comprehensive Challenge of This Section               | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-comprehensive-challenge-of-this-section)                 |
+|      27 | Comprehensive Operation of Conversion Functions       | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-comprehensive-challenge-on-conversion-functions)         |
+|      28 | Database Constraint Design and Implementation         | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-constraints-comprehensive)                               |
+|      29 | Countries and Codes in Region                         | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-countries-and-codes-in-region)                           |
+|      30 | Countries With 1 Billion+ Population                  | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-countries-with-1-billion+-population)                    |
+|      31 | Accessing MySQL Database and Querying GNP             | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-country-gdp-query)                                       |
+|      32 | Country GNP and Population Query                      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-country-gnp-and-population-query)                        |
+|      33 | Creating Stored Procedures for Course Data Retriev... | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-course-statistics)                                       |
+|      34 | Creating Secure MySQL User Accounts                   | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-create-user)                                             |
+|      35 | Creating Product Information Table                    | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-creating-product-information-table)                      |
+|      36 | SQL Queries for Student Course Analysis               | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-database-enhancement)                                    |
+|      37 | MySQL Database Management Fundamentals                | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-ddl-related-operations)                                  |
+|      38 | Mastering Database Management with SQL                | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-delete-city-table)                                       |
+|      39 | Delete Course Schedule View Data                      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-delete-course-schedule-view-data)                        |
+|      40 | Delete Expired Course Information                     | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-delete-expired-course-information)                       |
+|      41 | Comprehensive MySQL Data Manipulation                 | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-dml-comprehensive-challenge)                             |
+|      42 | SQL Querying for Employee Data                        | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-employee-data-filtering)                                 |
+|      43 | Mastering MySQL Database Management                   | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-empty-city-data)                                         |
+|      44 | Format Query for Teacher Salary                       | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-format-query-for-teacher-salary)                         |
+|      45 | General Function Comprehensive Challenge              | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-general-function-comprehensive-challenge)                |
+|      46 | Accessing MySQL Database and SQL Querying             | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-group-comprehensive-challenge)                           |
+|      47 | Identify MVP Recipient in Game                        | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-identify-mvp-recipient-in-game)                          |
+|      48 | Mastering Database Joins for Personnel Data           | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-join-query-comprehensive-challenge)                      |
+|      49 | Largest Population by Country                         | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-largest-population-by-country)                           |
+|      50 | Largest Population in Five Countries                  | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-largest-population-in-five-countries)                    |
+|      51 | Create MySQL Maximum Value Function                   | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-maximum-value-judgment)                                  |
+|      52 | Modifying MySQL Database Table Constraints            | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-modify-countrylanguage-table)                            |
+|      53 | Modify Primary Key of Countrylanguage Table           | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-modify-primary-key-of-countrylanguage-table)             |
+|      54 | Modify Student Table Attributes                       | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-modify-student-table-attributes)                         |
+|      55 | Mastering MySQL Data Analysis                         | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-multiple-line-function-comprehensive-challenge)          |
+|      56 | Number of Users With Modify Permissions               | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-number-of-users-with-modify-permissions)                 |
+|      57 | Obtain Pi With Two Decimals                           | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-obtain-pi-with-two-decimals)                             |
+|      58 | Official Languages in Various Countries               | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-official-languages-in-various-countries)                 |
+|      59 | Personnel Management System Database Setup            | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-personnel-management-system-database-setup)              |
+|      60 | Print Current Login User Information                  | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-print-current-login-user-information)                    |
+|      61 | Printing Current Time with MySQL                      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-print-current-time)                                      |
+|      62 | Print Standard Body Temperature in Fahrenheit         | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-print-standard-body-temperature-in-fahrenheit)           |
+|      63 | Query City Information for Specified IDs              | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-query-city-information-for-specified-ids)                |
+|      64 | Query City Names With Country                         | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-query-city-names-with-country)                           |
+|      65 | Query GDP for All Countries                           | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-query-gdp-for-all-countries)                             |
+|      66 | Query Is So Slow                                      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-query-is-so-slow)                                        |
+|      67 | Query Population of All Countries                     | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-query-population-of-all-countries)                       |
+|      68 | SQL Database Creation and Non-Equijoin Query          | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-query-user-level)                                        |
+|      69 | Query User Levels With Left Join                      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-query-user-levels-with-left-join)                        |
+|      70 | Querying Country Codes Range                          | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-querying-country-codes-range)                            |
+|      71 | Querying Official Languages and Sorting               | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-querying-official-languages-and-sorting)                 |
+|      72 | Querying Official Languages of Each Country           | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-querying-official-languages-of-each-country)             |
+|      73 | Reverse Print File Content Command                    | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-reverse-print-file-content-command)                      |
+|      74 | Right Outer Join Query User Level                     | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-right-outer-join-query-user-level)                       |
+|      75 | Salary Range for Teachers by Department.              | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-salary-range-for-teachers-by-department)                 |
+|      76 | Search for Favorite Courses                           | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-search-for-favorite-courses)                             |
+|      77 | Stored Procedure Cursor Database Retrieval            | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-spring-course-information)                               |
+|      78 | Student Grade Management System                       | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-student-grade-management-system)                         |
+|      79 | Creating Database Views in MySQL                      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-student-table-view)                                      |
+|      80 | Mastering SQL Subqueries for Data Analysis            | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-subquery-comprehensive-challenge)                        |
+|      81 | Top 5 Countries by Land Area                          | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-top-5-countries-by-land-area)                            |
+|      82 | Updating Student GPA in MySQL Database                | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-update-gpa)                                              |
+|      83 | Creating and Updating Database Views                  | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-update-student-view)                                     |
+|      84 | View for Course Information                           | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-view-for-course-information)                             |
+|      85 | Exploring MySQL User Permissions                      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-view-user-permissions)                                   |
+|      86 | Wuxu Reform Duration Calculation                      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-wuxu-reform-duration-calculation)                        |
+|      87 | COVID-19 Data Analysis with Python                    | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-covid-19-data-statistics)                                |
+
+### More
+
+- 🔗 [Data Science Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#data-science)
+- 🔗 [Data Science Free Tutorials](https://github.com/labex-labs/data-science-free-tutorials)
+
+
+---
+
+<div align="center">
+<img width="128px" src="https://file.labex.io/path/Xke24vJbuOBk.png">
+</div>
+
+## Cyber Security
+
+Gain practical skills in network mapping with Nmap, packet analysis with Wireshark, and ethical hacking methodologies using Kali Linux. Explore host discovery, port scanning, vulnerability assessments, traffic capture, packet dissection, and a wide range of security tools. Develop hands-on expertise in network reconnaissance, web app testing, wireless hacking, exploitation, and post-exploitation techniques. This comprehensive path equips you with essential InfoSec knowledge to identify risks, conduct ethical hacking assessments, and strengthen organizational security posture.
+
+|   Index | Name                                      | Level   | Project Link                                                                                   |
+|---------|-------------------------------------------|---------|------------------------------------------------------------------------------------------------|
+|       1 | Build a Web Based TCP Port Scanner        | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-build-a-web-based-tcp-port-scanner)        |
+|       2 | Building a Network Scanner in Python      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-building-a-network-scanner-in-python)      |
+|       3 | Building a Port Scanner With Python       | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-building-a-port-scanner-with-python)       |
+|       4 | FTP Weak Password Scanner Using Python    | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-ftp-weak-password-scanner-using-python)    |
+|       5 | Reverse Shell to Control Multiple Targets | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-reverse-shell-to-control-multiple-targets) |
+
+### More
+
+- 🔗 [Cyber Security Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#cysec)
+- 🔗 [Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
+
+
+---
+
+<div align="center">
+<img width="128px" src="https://file.labex.io/path/1kXLbMH5geSl.png">
+</div>
+
+## Machine Learning
+
+Machine learning is the science of programming computers so they can learn from data. It is a subfield of artificial intelligence. Machine learning is closely related to computational statistics, which also focuses on prediction-making through the use of computers. 
+
+|   Index | Name                                                  | Level   | Project Link                                                                                                 |
+|---------|-------------------------------------------------------|---------|--------------------------------------------------------------------------------------------------------------|
+|      01 | Deploying MobileNet With TensorFlow.js and Flask      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-deploying-mobilenet-with-tensorflowjs-and-flask)         |
+|      02 | Deploying a Simple TensorFlow Model                   | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-deploying-a-simple-tensorflow-model)                     |
+|      03 | ASCII Art Animation With OpenCV                       | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-ascii-art-animation-with-opencv)                         |
+|      04 | Flappy Bird Detection in Video Using Match Templat... | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-flappy-bird-detection-in-video-using-match-template)     |
+|      05 | Classifying Iris Using SVM                            | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-classifying-iris-using-svm)                              |
+|      06 | Broad Listening Leads to Insight                      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-broad-listening-leads-to-insight)                        |
+|      07 | Implementing Confusion Matrix for Classification      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-create-confusion-matrix)                                 |
+|      08 | Data Cleaning and Purification with Python            | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-csv-data-purification)                                   |
+|      09 | Divide Dataset Into Mini-Batches                      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-divide-dataset-into-mini-batches)                        |
+|      10 | Early Stopping for Machine Learning                   | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-early-stopping)                                          |
+|      11 | Encoding Label to One-Hot                             | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-encoding-label-to-one-hot)                               |
+|      12 | Optimizing Gradient Descent for Global Optimizatio... | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-haste-makes-waste)                                       |
+|      13 | K-Nearest Neighbors Regression Algorithm Implement... | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-k-nearest-neighbors-regression-algorithm-implementation) |
+|      14 | Linear Regression Fitting and Plotting                | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-linear-regression-fitting-and-plotting)                  |
+|      15 | Nonlinear Regression Model Estimation                 | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-linear-validation-method)                                |
+|      16 | Implementing Minkowski Distance Metric                | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-minkowski-distances-calculating)                         |
+|      17 | Implementation of Polynomial Regression               | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-polynomial-regression-implementation-and-application)    |
+|      18 | Simple Handwritten Character Recognition Classifie... | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-simple-handwritten-character-recognition-classifier)     |
+|      19 | Balanced Batch Generation for Imbalanced Datasets     | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-unbalanced-data-pipeline)                                |
+
+### More
+
+- 🔗 [Machine Learning Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#ml)
+- 🔗 [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
+
+
+---
+
+<div align="center">
 <img width="128px" src="https://file.labex.io/path/X5zPui0XRqNx.png">
 </div>
 
@@ -259,6 +639,91 @@ Git is a version control system that allows you to track changes in your code an
 
 - 🔗 [Git Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#git)
 - 🔗 [Git Free Tutorials](https://github.com/labex-labs/git-free-tutorials)
+
+
+---
+
+<div align="center">
+<img width="128px" src="https://file.labex.io/path/PBjrCC7U2Koq.png">
+</div>
+
+## Ansible
+
+Ansible is an open-source software provisioning, configuration management, and application-deployment tool enabling infrastructure as code. It runs on many Unix-like systems, and can configure both Unix-like systems as well as Microsoft Windows. It includes its own declarative language to describe system configuration.
+
+|   Index | Name                                                  | Level   | Project Link                                                                                         |
+|---------|-------------------------------------------------------|---------|------------------------------------------------------------------------------------------------------|
+|       1 | Basic Usage of Ansible                                | ★★☆     | [🚀 Start Building](https://labex.io/courses/basic-usage-of-ansible)                                  |
+|       2 | Integrate Ansible With Jenkins for Automated Deplo... | ★★☆     | [🚀 Start Building](https://labex.io/courses/integrate-ansible-with-jenkins-for-automated-deployment) |
+
+### More
+
+- 🔗 [Ansible Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#ansible)
+- 🔗 [Ansible Free Tutorials](https://github.com/labex-labs/ansible-free-tutorials)
+
+
+---
+
+<div align="center">
+<img width="128px" src="https://file.labex.io/path/VtELSfa4h1jh.png">
+</div>
+
+## Jenkins
+
+Jenkins is a free and open source automation server. Jenkins helps to automate the non-human part of the software development process, with continuous integration and facilitating technical aspects of continuous delivery.
+
+|   Index | Name                                                  | Level   | Project Link                                                                                         |
+|---------|-------------------------------------------------------|---------|------------------------------------------------------------------------------------------------------|
+|       1 | Integrate Ansible With Jenkins for Automated Deplo... | ★★☆     | [🚀 Start Building](https://labex.io/courses/integrate-ansible-with-jenkins-for-automated-deployment) |
+|       2 | Deploy Jenkins Service on ECS                         | ★★☆     | [🚀 Start Building](https://labex.io/courses/deploy-jenkins-service-on-ecs)                           |
+|       3 | Use Jenkins Pipelines to Build a Project              | ★★☆     | [🚀 Start Building](https://labex.io/courses/use-jenkins-pipelines-to-build-a-project)                |
+|       4 | Build a Project With Jenkins                          | ★★☆     | [🚀 Start Building](https://labex.io/courses/build-a-project-with-jenkins)                            |
+|       5 | Use Jenkins for Continuous Integration                | ★★☆     | [🚀 Start Building](https://labex.io/courses/use-jenkins-for-continuous-integration)                  |
+|       6 | Implement Automated Deployment by Using Jenkins an... | ★★★     | [🚀 Start Building](https://labex.io/courses/implement-automated-deployment-by-using-jenkins-and-oos) |
+
+### More
+
+- 🔗 [Jenkins Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#jenkins)
+- 🔗 [Jenkins Free Tutorials](https://github.com/labex-labs/jenkins-free-tutorials)
+
+
+---
+
+<div align="center">
+<img width="128px" src="https://file.labex.io/path/FaVTnI4iqZP0.png">
+</div>
+
+## Shell
+
+Shell is a user interface for access to an operating system's services. In general, operating system shells use either a command-line interface (CLI) or graphical user interface (GUI), depending on a computer's role and particular operation.
+
+|   Index | Name                                         | Level   | Project Link                                                                                        |
+|---------|----------------------------------------------|---------|-----------------------------------------------------------------------------------------------------|
+|      01 | Build a Linux System Monitor Using Bash      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-build-a-linux-system-monitor-using-bash)        |
+|      02 | Creating a Typing Game Using Bash            | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-creating-a-typing-game-using-bash)              |
+|      03 | Build a Task Scheduler Using Bash            | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-build-a-task-scheduler-using-bash)              |
+|      04 | Building Flappy Bird Using C                 | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-building-flappy-bird-using-c)                   |
+|      05 | Chess Board in Terminal                      | ★★☆     | [🚀 Start Building](https://labex.io/courses/project-chess-board-in-terminal)                        |
+|      06 | Implement Custom Trash-Enabled Command       | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-avoid-accidental-deletion)                      |
+|      07 | Users and Groups Creation and Deletion Batch | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-bulk-creation-and-deletion-of-users-and-groups) |
+|      08 | Collect Files From Specified Time            | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-collect-files-from-specified-time)              |
+|      09 | Copy Large Files with Preserved Structure    | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-copy-specified-files)                           |
+|      10 | Customizing Linux File Listing               | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-directory-size)                                 |
+|      11 | Extracting Information From Text             | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-extracting-information-from-text)               |
+|      12 | Extracting Link Information From Text        | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-extracting-link-information-from-text)          |
+|      13 | Get Program That Satisfies the Condition     | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-get-program-that-satisfies-the-condition)       |
+|      14 | Linux Server Information Retrieval           | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-get-system-information)                         |
+|      15 | Nginx Log Analysis and Optimization          | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-log-analysis)                                   |
+|      16 | Automated Daily System Log Backup            | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-log-backup)                                     |
+|      17 | Network Data Packet Statistics               | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-network-data-packet-statistics)                 |
+|      18 | Random Password Generator Development        | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-password-generator)                             |
+|      19 | Searching for Specific Files                 | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-searching-for-specific-files)                   |
+|      20 | Samba File Sharing on Linux                  | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-service-management)                             |
+
+### More
+
+- 🔗 [Shell Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#shell)
+- 🔗 [Shell Free Tutorials](https://github.com/labex-labs/shell-free-tutorials)
 
 
 ---
@@ -503,44 +968,6 @@ MySQL is an open-source relational database management system (RDBMS). Its name 
 ---
 
 <div align="center">
-<img width="128px" src="https://file.labex.io/path/1kXLbMH5geSl.png">
-</div>
-
-## Machine Learning
-
-Machine learning is the science of programming computers so they can learn from data. It is a subfield of artificial intelligence. Machine learning is closely related to computational statistics, which also focuses on prediction-making through the use of computers. 
-
-|   Index | Name                                                  | Level   | Project Link                                                                                                 |
-|---------|-------------------------------------------------------|---------|--------------------------------------------------------------------------------------------------------------|
-|      01 | Deploying MobileNet With TensorFlow.js and Flask      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-deploying-mobilenet-with-tensorflowjs-and-flask)         |
-|      02 | Deploying a Simple TensorFlow Model                   | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-deploying-a-simple-tensorflow-model)                     |
-|      03 | ASCII Art Animation With OpenCV                       | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-ascii-art-animation-with-opencv)                         |
-|      04 | Flappy Bird Detection in Video Using Match Templat... | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-flappy-bird-detection-in-video-using-match-template)     |
-|      05 | Classifying Iris Using SVM                            | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-classifying-iris-using-svm)                              |
-|      06 | Broad Listening Leads to Insight                      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-broad-listening-leads-to-insight)                        |
-|      07 | Implementing Confusion Matrix for Classification      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-create-confusion-matrix)                                 |
-|      08 | Data Cleaning and Purification with Python            | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-csv-data-purification)                                   |
-|      09 | Divide Dataset Into Mini-Batches                      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-divide-dataset-into-mini-batches)                        |
-|      10 | Early Stopping for Machine Learning                   | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-early-stopping)                                          |
-|      11 | Encoding Label to One-Hot                             | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-encoding-label-to-one-hot)                               |
-|      12 | Optimizing Gradient Descent for Global Optimizatio... | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-haste-makes-waste)                                       |
-|      13 | K-Nearest Neighbors Regression Algorithm Implement... | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-k-nearest-neighbors-regression-algorithm-implementation) |
-|      14 | Linear Regression Fitting and Plotting                | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-linear-regression-fitting-and-plotting)                  |
-|      15 | Nonlinear Regression Model Estimation                 | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-linear-validation-method)                                |
-|      16 | Implementing Minkowski Distance Metric                | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-minkowski-distances-calculating)                         |
-|      17 | Implementation of Polynomial Regression               | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-polynomial-regression-implementation-and-application)    |
-|      18 | Simple Handwritten Character Recognition Classifie... | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-simple-handwritten-character-recognition-classifier)     |
-|      19 | Balanced Batch Generation for Imbalanced Datasets     | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-unbalanced-data-pipeline)                                |
-
-### More
-
-- 🔗 [Machine Learning Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#ml)
-- 🔗 [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
-
-
----
-
-<div align="center">
 <img width="128px" src="https://file.labex.io/path/YgASYacMNI6I.png">
 </div>
 
@@ -560,6 +987,27 @@ Golang is an open-source programming language that makes it easy to build simple
 
 - 🔗 [Go Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#go)
 - 🔗 [Go Free Tutorials](https://github.com/labex-labs/go-free-tutorials)
+
+
+---
+
+<div align="center">
+<img width="128px" src="https://file.labex.io/path/pQ75vSY2Oubi.png">
+</div>
+
+## OpenCV
+
+OpenCV is a library of programming functions mainly aimed at real-time computer vision. Originally developed by Intel, it was later supported by Willow Garage then Itseez. The library is cross-platform and free for use under the open-source BSD license.
+
+|   Index | Name                                                  | Level   | Project Link                                                                                             |
+|---------|-------------------------------------------------------|---------|----------------------------------------------------------------------------------------------------------|
+|       1 | Flappy Bird Detection in Video Using Match Templat... | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-flappy-bird-detection-in-video-using-match-template) |
+|       2 | ASCII Art Animation With OpenCV                       | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-ascii-art-animation-with-opencv)                     |
+
+### More
+
+- 🔗 [OpenCV Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#opencv)
+- 🔗 [OpenCV Free Tutorials](https://github.com/labex-labs/opencv-free-tutorials)
 
 
 ---
@@ -650,6 +1098,26 @@ Matplotlib is a Python library for creating visualizations of data. It provides 
 
 - 🔗 [Matplotlib Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#matplotlib)
 - 🔗 [Matplotlib Free Tutorials](https://github.com/labex-labs/matplotlib-free-tutorials)
+
+
+---
+
+<div align="center">
+<img width="128px" src="https://file.labex.io/path/FXuseQI6SAeI.png">
+</div>
+
+## Algorithm
+
+Welcome to the Algorithm. You will learn how to design and implement efficient algorithms using Python. You will explore various algorithmic techniques such as sorting, searching, and graph traversal, and gain hands-on experience by solving real-world problems. 
+
+|   Index | Name                                   | Level   | Project Link                                                              |
+|---------|----------------------------------------|---------|---------------------------------------------------------------------------|
+|       1 | Implementing Queue Data Structure in C | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-implementing-a-queue) |
+
+### More
+
+- 🔗 [Algorithm Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#algorithm)
+- 🔗 [Algorithm Free Tutorials](https://github.com/labex-labs/algorithm-free-tutorials)
 
 
 ---
@@ -955,23 +1423,31 @@ React is a JavaScript library for building user interfaces. It's used by compani
 ---
 
 <div align="center">
-<img width="128px" src="https://file.labex.io/path/Xke24vJbuOBk.png">
+<img width="128px" src="https://file.labex.io/path/gZnWhysfwRvq.png">
 </div>
 
-## Cyber Security
+## jQuery
 
-Gain practical skills in network mapping with Nmap, packet analysis with Wireshark, and ethical hacking methodologies using Kali Linux. Explore host discovery, port scanning, vulnerability assessments, traffic capture, packet dissection, and a wide range of security tools. Develop hands-on expertise in network reconnaissance, web app testing, wireless hacking, exploitation, and post-exploitation techniques. This comprehensive path equips you with essential InfoSec knowledge to identify risks, conduct ethical hacking assessments, and strengthen organizational security posture.
+jQuery is a JavaScript library designed to simplify HTML DOM tree traversal and manipulation, as well as event handling, CSS animation, and Ajax. It is free, open-source software using the permissive MIT License.
 
-|   Index | Name                                      | Level   | Project Link                                                                                   |
-|---------|-------------------------------------------|---------|------------------------------------------------------------------------------------------------|
-|       1 | Build a Web Based TCP Port Scanner        | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-build-a-web-based-tcp-port-scanner)        |
-|       2 | Building a Network Scanner in Python      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-building-a-network-scanner-in-python)      |
-|       3 | Building a Port Scanner With Python       | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-building-a-port-scanner-with-python)       |
-|       4 | FTP Weak Password Scanner Using Python    | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-ftp-weak-password-scanner-using-python)    |
-|       5 | Reverse Shell to Control Multiple Targets | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-reverse-shell-to-control-multiple-targets) |
+|   Index | Name                                           | Level   | Project Link                                                                                     |
+|---------|------------------------------------------------|---------|--------------------------------------------------------------------------------------------------|
+|      01 | 2048 Web Game Using jQuery                     | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-2048-web-game-using-jquery)                  |
+|      02 | jQuery Flip Puzzle Game                        | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-jquery-flip-puzzle-game)                     |
+|      03 | Creating a Minesweeper Game With JavaScript    | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-creating-a-minesweeper-game-with-javascript) |
+|      04 | Go to the Next Step                            | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-go-to-the-next-step)                         |
+|      05 | Implement Portal-like Web Page                 | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-portal)                                      |
+|      06 | Interactive Film Collection Web App            | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-collection-of-films)                         |
+|      07 | Building Responsive Accordion Interfaces       | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-folding-accordion)                           |
+|      08 | Fruit Matching Game with HTML, CSS, JavaScript | ★★☆     | [🚀 Start Building](https://labex.io/courses/project-fruit-for-fun)                               |
+|      09 | Fruit Stacking Game with HTML, CSS, JavaScript | ★★☆     | [🚀 Start Building](https://labex.io/courses/project-fruit-stacker)                               |
+|      10 | Implement Card Binding Function                | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-implement-card-binding-function)             |
+|      11 | Implement User Login Function                  | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-implement-user-login-function)               |
+|      12 | Building a Voting Application                  | ★★☆     | [🚀 Start Building](https://labex.io/courses/project-valuable-vote)                               |
+|      13 | Implementation of AJAX Requests Using JS       | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-implementation-of-ajax-requests-using-js)    |
 
 ### More
 
-- 🔗 [Cyber Security Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#cysec)
-- 🔗 [Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
+- 🔗 [jQuery Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#jquery)
+- 🔗 [jQuery Free Tutorials](https://github.com/labex-labs/jquery-free-tutorials)
 
