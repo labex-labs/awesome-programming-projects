@@ -1,6 +1,6 @@
 # Awesome Programming Projects
         
-Awesome Programming Projects is a collection of curated learning paths spanning diverse topics like programming languages, machine learning, and cybersecurity. It offers comprehensive projects and hands-on labs tailored for learners of all levels, from students to professionals and enthusiasts.
+Awesome Programming Projects collects 844 of programming projects for different skill trees. It offers comprehensive projects and hands-on labs tailored for learners of all levels, from students to professionals and enthusiasts.
 
 | Skill Tree                                                           | Name             |   Projects | Repo                                                                                                |
 |----------------------------------------------------------------------|------------------|------------|-----------------------------------------------------------------------------------------------------|
