@@ -2,8 +2,8 @@
         
 Awesome Programming Projects collects 844 of programming projects for different skill trees. It offers comprehensive projects and hands-on labs tailored for learners of all levels, from students to professionals and enthusiasts.
 
-| Skill Tree                                                           | Name             |   Projects | Repo                                                                                                |
-|----------------------------------------------------------------------|------------------|------------|-----------------------------------------------------------------------------------------------------|
+| Skill Tree                                                           | Name             |   Projects | Repo                                                                                               |
+|----------------------------------------------------------------------|------------------|------------|----------------------------------------------------------------------------------------------------|
 | <img width='64px' src='https://file.labex.io/path/k5LXo5b82pJm.png'> | Linux            |         29 | [🔗 Practice Projects](https://github.com/labex-labs/practice-linux-programming-projects)           |
 | <img width='64px' src='https://file.labex.io/path/E4pVLzVNCjyM.png'> | Python           |         93 | [🔗 Practice Projects](https://github.com/labex-labs/practice-python-programming-projects)          |
 | <img width='64px' src='https://file.labex.io/path/a3Od9y18p0bV.png'> | DevOps           |         32 | [🔗 Practice Projects](https://github.com/labex-labs/practice-devops-programming-projects)          |
