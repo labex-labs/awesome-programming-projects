@@ -1,4 +1,8 @@
 # Awesome Programming Projects
+
+[![Black Friday](https://file.labex.io/images/labex-bf24.png)](https://labex.io/pricing)
+
+> [Black Friday 2024 & Cyber Monday 2024 Deals](https://labex.io/pricing) | Best Price of the Year
         
 Awesome Programming Projects collects 788 of programming projects for different skill trees. It offers comprehensive projects and hands-on labs tailored for learners of all levels, from students to professionals and enthusiasts.
 
