@@ -1,6 +1,6 @@
 # Awesome Programming Projects
 
-Awesome Programming Projects collects 777 of programming projects for different skill trees. It offers comprehensive projects and hands-on labs tailored for learners of all levels, from students to professionals and enthusiasts.
+Awesome Programming Projects collects 776 of programming projects for different skill trees. It offers comprehensive projects and hands-on labs tailored for learners of all levels, from students to professionals and enthusiasts.
 
 | Skill Tree                                                           | Name             |   Projects | Repo                                                                                            |
 |----------------------------------------------------------------------|------------------|------------|-------------------------------------------------------------------------------------------------|
@@ -12,7 +12,7 @@ Awesome Programming Projects collects 777 of programming projects for different 
 | <img width='64px' src='https://file.labex.io/path/3JJy1bOBmUoZ.png'> | MySQL            |         85 | [🔗 View Projects](https://github.com/labex-labs/practice-mysql-programming-projects)           |
 | <img width='64px' src='https://file.labex.io/path/YgASYacMNI6I.png'> | Golang           |          5 | [🔗 View Projects](https://github.com/labex-labs/practice-go-programming-projects)              |
 | <img width='64px' src='https://file.labex.io/path/kjx58efaCNu0.png'> | C++              |          2 | [🔗 View Projects](https://github.com/labex-labs/practice-cpp-programming-projects)             |
-| <img width='64px' src='https://file.labex.io/path/GAbMWgBPUOxV.png'> | C                |         19 | [🔗 View Projects](https://github.com/labex-labs/practice-c-programming-projects)               |
+| <img width='64px' src='https://file.labex.io/path/GAbMWgBPUOxV.png'> | C                |         18 | [🔗 View Projects](https://github.com/labex-labs/practice-c-programming-projects)               |
 | <img width='64px' src='https://file.labex.io/path/Ctx67nWJaNg4.png'> | Data Science     |         87 | [🔗 View Projects](https://github.com/labex-labs/practice-data-science-programming-projects)    |
 | <img width='64px' src='https://file.labex.io/path/1kXLbMH5geSl.png'> | Machine Learning |         17 | [🔗 View Projects](https://github.com/labex-labs/practice-ml-programming-projects)              |
 | <img width='64px' src='https://file.labex.io/path/qhqKKAjZr3K5.png'> | Pandas           |          3 | [🔗 View Projects](https://github.com/labex-labs/practice-pandas-programming-projects)          |
